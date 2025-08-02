@@ -106,10 +106,7 @@ Hover effects for interactivity
 
 #OUTPUT 
 
-
-
-
-
+<img width="1918" height="902" alt="Image" src="https://github.com/user-attachments/assets/be288e4c-00b7-4a67-8e9f-9096b087735b" />
 
 
 
